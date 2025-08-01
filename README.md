@@ -4,18 +4,19 @@
 
 
 <p align="left">
-  <a href="https://linkedin.com/in/nitheeshmk5" target="_blank">
+  <a href="https://linkedin.com/in/nitheeshmk5" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/nitheeshmk41" target="_blank">
+  <a href="https://github.com/nitheeshmk41" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/nitheeshmk5" target="_blank">
+  <a href="https://leetcode.com/nitheeshmk5" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
   <br />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nitheeshmk41" alt="Visitors" style="vertical-align: middle; margin-left: 10px;" />
 </p>
+
 
 
 ---
